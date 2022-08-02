@@ -24,6 +24,11 @@
       "nombre": "Jugo de Fresa",
       "precio": "200",
       "id": 5
+    },
+    {
+      "nombre": "Prueba alerta",
+      "precio": 140,
+      "id": 6
     }
   ]
 }

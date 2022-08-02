@@ -165,6 +165,6 @@ const editarProductoExito = (producto) => ({
 });
 
 const productoEditadoError = (estado) => ({
-  type: PRODUCTO_ELIMINADO_ERROR,
+  type: PRODUCTO_EDITADO_ERROR,
   payload: estado,
 });
